@@ -2,7 +2,6 @@ import json
 import heapq
 from pathlib import Path
 
-
 BASE_DIR = Path(__file__).parent
 ADJACENCY_FILE = BASE_DIR / "output" / "adjacency_list.json"
 
